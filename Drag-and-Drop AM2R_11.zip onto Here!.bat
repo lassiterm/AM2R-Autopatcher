@@ -75,7 +75,7 @@ if "%ReturnCode%"=="2" (
 
 ECHO Patching AM2R.exe...
 REM utilities\floating\flips.exe --apply patch_data\AM2R.bps %output%\data.win %output%\AM2R.exe
-utilities\xdelta\xdelta3.exe -f -d -s %output%\data.win patch_data\AM2R.xdelta %output%\AM2R.exe
+utilities\xdelta\xdelta3.exe -f -d -s %output%\data.win patch_data\AM2RCoop.xdelta %output%\AM2R.exe
 ECHO.
 
 if not "%ErrorLevel%"=="0" (
