@@ -1,7 +1,6 @@
-# AM2R-Autopatcher 1.5.2
-Host repository for the AM2R Autopatcher data.
+# AM2R-Autopatcher 1.5.2 Co-op Mod
+Repository for the AM2R Autopatcher data with the co-op patch file.
 
-Unless you're trying to manually patch your game file, this is of no use to you!
+This fork is currently set up to install the latest version of the co-op mod.
 
-There's not even anything interesting to dig up, this is just a slightly modified version of the normal release format.
-
+Download the code as a .zip and drop the AM2R_11.zip onto the .bat file to install.
